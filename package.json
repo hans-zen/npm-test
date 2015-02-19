@@ -1,0 +1,19 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "some testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hans-zen/npm-test"
+  },
+  "author": "Hans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hans-zen/npm-test/issues"
+  },
+  "homepage": "https://github.com/hans-zen/npm-test"
+}
