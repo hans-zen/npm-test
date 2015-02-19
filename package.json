@@ -4,7 +4,8 @@
   "description": "some testing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hans-zen/npm-test/issues"
   },
-  "homepage": "https://github.com/hans-zen/npm-test"
+  "homepage": "https://github.com/hans-zen/npm-test",
+  "dependencies": {
+    "once": "^1.3.0"
+  }
 }
